@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: travel-agency-system
+  profiles:
+    active: dev
