@@ -1,11 +1,8 @@
-Your README is already **clear, structured, and GitHub-ready** 👍
-Below is a **polished, industry-standard enhanced version** with minor improvements in clarity, consistency, and professionalism—**no functionality changes**, just better presentation and recruiter-friendly wording.
 
-You can directly replace your current README with this 👇
-
----
 
 # 🌍 Travel Agency Management System
+  Name - Suraj Yadav
+  Registration Number - 12326764
 
 A comprehensive **Travel Agency Management System** built using **Spring Boot**, designed to efficiently manage customers, bookings, tour packages, destinations, and travel itineraries through RESTful APIs.
 
